@@ -23,8 +23,8 @@ export default {
 <style>
 .footer {
   padding: 0 0 20px 0;
-  border-top: 5px solid #28c8a0;
-  background: #ebf5f5;
+  border-top: 5px solid #33aeff;
+  background: #d7ecfa;
 }
 .site-navi {
   margin: 40px 0 0 0;

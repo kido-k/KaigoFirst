@@ -21,8 +21,16 @@ html {
   max-width: 100%;
 }
 
+.main-color {
+  background: #33aeff;
+}
+
+.main-font-color {
+  color: #33aeff;
+}
+
 .btn-primary {
-  background: #28c8a0;
+  background: #33aeff;
   border: none;
   color: #fff;
 }

@@ -68,7 +68,7 @@ export default {
   text-align: center;
 }
 .middlecontent {
-  background-color: #f0fafa;
+  background-color: #d7ecfa;
   margin: 40px 0 0 0;
   padding: 40px 0;
 }
