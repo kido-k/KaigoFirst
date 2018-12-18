@@ -3,7 +3,7 @@
     <a href="/">
       <img
         src="../../assets/LOGO.png"
-        alt="AskDoctor">
+        alt="LOGO">
     </a>
   </div>
 </template>
@@ -11,7 +11,7 @@
 <style>
 .Logo {
   display: inline-block;
-  margin-right: 30px;
-  width: 247px;
+  margin: 0 20px 0 10px;
+  width: 380px;
 }
 </style>
