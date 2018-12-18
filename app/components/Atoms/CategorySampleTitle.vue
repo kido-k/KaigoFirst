@@ -1,6 +1,6 @@
 <template>
   <div class="title">
-    <h3>新生児・こども</h3>
+    <h3>将来の介護プラン</h3>
   </div>
 </template>
 

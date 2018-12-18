@@ -1,6 +1,6 @@
 <template>
   <div class="Label">
-    <p>赤ちゃん・こどものケガや病気、気になる症状</p>
+    <p>介護者と家族に合わせたケアプランの作成</p>
   </div>
 </template>
 
