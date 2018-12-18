@@ -2,7 +2,7 @@
   <div class="example">
     <img
       class="exampleImage"
-      src="../../assets/MiddlePicture2_example.png"
+      src="../../assets/KaigoAnswerPicture.png"
       alt="catchCopy">
   </div>
 </template>
@@ -12,6 +12,6 @@
   display: inline-block;
 }
 .exampleImage {
-  height: 250px;
+  height: 300px;
 }
 </style>

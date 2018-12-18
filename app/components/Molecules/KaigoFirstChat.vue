@@ -3,7 +3,7 @@
     <div class="middle-title">
       <KaigoChatTitle/>
       <KaigoChatLabel class="label"/>
-      <MidlePicture/>
+      <KaigoChatPicture/>
     </div>
   </section>
 </template>
@@ -22,13 +22,13 @@
 <script>
 import KaigoChatTitle from '~/components/atoms/KaigoChatTitle.vue'
 import KaigoChatLabel from '~/components/atoms/KaigoChatLabel.vue'
-import MidlePicture from '~/components/atoms/AskDoctorMiddlePicture1.vue'
+import KaigoChatPicture from '~/components/atoms/KaigoChatPicture.vue'
 
 export default {
   components: {
     KaigoChatTitle,
     KaigoChatLabel,
-    MidlePicture
+    KaigoChatPicture
   }
 }
 </script>

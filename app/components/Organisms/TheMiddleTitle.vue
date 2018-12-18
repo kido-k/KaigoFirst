@@ -1,18 +1,18 @@
 <template>
   <div class="middle">
-    <AskDoctorChat class="left-component"/>
-    <AskExamplePatient class="right-component"/>
+    <KaigoFirstChat class="left-component"/>
+    <KaigoAnswerSample class="right-component"/>
   </div>
 </template>
 
 <script>
-import AskDoctorChat from '../Molecules/AskDoctorChat.vue'
-import AskExamplePatient from '../Molecules/AskExamplePatient.vue'
+import KaigoFirstChat from '../Molecules/KaigoFirstChat.vue'
+import KaigoAnswerSample from '../Molecules/KaigoAnswerSample.vue'
 
 export default {
   components: {
-    AskDoctorChat,
-    AskExamplePatient
+    KaigoFirstChat,
+    KaigoAnswerSample
   }
 }
 </script>
@@ -26,12 +26,12 @@ export default {
 }
 .left-component {
   text-align: center;
-  width: 49%;
-  margin: 0 2% 0 0;
+  width: 40%;
+  margin: 0 2% 0 10%;
 }
 .right-component {
   text-align: center;
-  width: 49%;
+  width: 40%;
   margin: 0;
 }
 </style>

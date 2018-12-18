@@ -1,7 +1,7 @@
 <template>
   <div class="title">
-    <p>200万件以上の<br>
-      相談事例も閲覧し放題</p>
+    <p>厳しい審査を突破した<br>
+      ケアマネのみが回答します</p>
   </div>
 </template>
 
