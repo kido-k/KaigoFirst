@@ -1,8 +1,8 @@
 <template>
   <section>
     <div class="middle-title">
-      <MidleTitle/>
-      <MidleLabel class="label"/>
+      <KaigoChatTitle/>
+      <KaigoChatLabel class="label"/>
       <MidlePicture/>
     </div>
   </section>
@@ -20,14 +20,14 @@
 
 
 <script>
-import MidleTitle from '~/components/atoms/AskDoctorMiddleTitle1.vue'
-import MidleLabel from '~/components/atoms/AskDoctorMiddleLabel1.vue'
+import KaigoChatTitle from '~/components/atoms/KaigoChatTitle.vue'
+import KaigoChatLabel from '~/components/atoms/KaigoChatLabel.vue'
 import MidlePicture from '~/components/atoms/AskDoctorMiddlePicture1.vue'
 
 export default {
   components: {
-    MidleTitle,
-    MidleLabel,
+    KaigoChatTitle,
+    KaigoChatLabel,
     MidlePicture
   }
 }

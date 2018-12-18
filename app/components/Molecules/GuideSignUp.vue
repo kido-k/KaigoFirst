@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="guide">
-      <AskDoctorLabel1 class="label"/>
+      <KaigoFirstLabel class="label"/>
       <SignUpButton class="button"/>
     </div>
   </section>
@@ -19,12 +19,12 @@
 
 
 <script>
-import AskDoctorLabel1 from '~/components/atoms/AskDoctorLabel1.vue'
+import KaigoFirstLabel from '~/components/atoms/KaigoFirstLabel.vue'
 import SignUpButton from '~/components/atoms/SignUpButton.vue'
 
 export default {
   components: {
-    AskDoctorLabel1,
+    KaigoFirstLabel,
     SignUpButton
   }
 }

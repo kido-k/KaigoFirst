@@ -1,6 +1,6 @@
 <template>
   <div class="label">
-    <p>最短5分で、複数の医師から回答がもらえます。</p>
+    <p>直面している悩みや将来の不安を検索して専門家からアドバイスをもらえます。</p>
   </div>
 </template>
 
@@ -13,6 +13,5 @@
 .label > p {
   font-size: 18px;
   margin: 0;
-  text-align: left;
 }
 </style>

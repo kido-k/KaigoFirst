@@ -1,7 +1,7 @@
 <template>
   <div class="title">
     <p>24時間365日<br>
-      医師に相談できます</p>
+      ケアマネージャーに簡単相談</p>
   </div>
 </template>
 
