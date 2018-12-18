@@ -2,7 +2,12 @@
   <div>
     <div class="feature-search">
       <FeatureSearchTitle class="title"/>
-      <FeatureSearchWord class="btn"/>
+      <div class="d-flex">
+        <FeatureSearchWord class="btn"/>
+        <FeatureSearchWord class="btn"/>
+        <FeatureSearchWord class="btn"/>
+        <FeatureSearchWord class="btn"/>
+      </div>
     </div>
   </div>
 </template>

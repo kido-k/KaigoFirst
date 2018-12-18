@@ -1,6 +1,6 @@
 <template>
   <div class="theheader">
-    <AskDoctor/>
+    <HeaderLogo/>
     <SearchComponent/>
     <LoginMenuButton/>
     <MainMenuButton/>
@@ -8,14 +8,14 @@
 </template>
 
 <script>
-import AskDoctor from '../Atoms/AskDoctorLogo.vue'
+import HeaderLogo from '../Atoms/HeaderLogo.vue'
 import LoginMenuButton from '../Atoms/LoginMenuButton.vue'
 import MainMenuButton from '../Atoms/MainMenuButton.vue'
 import SearchComponent from '../Molecules/SearchComponent.vue'
 
 export default {
   components: {
-    AskDoctor,
+    HeaderLogo,
     SearchComponent,
     LoginMenuButton,
     MainMenuButton

@@ -4,7 +4,7 @@
       class="btn btn-warning"
       type="button"
     >
-      インフルエンザ予防注射
+      担当ケアマネとの相性
     </button>
   </div>
 </template>

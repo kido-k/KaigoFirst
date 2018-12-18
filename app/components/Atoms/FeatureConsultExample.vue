@@ -9,7 +9,7 @@
             href="#"
             class="list-group-item list-group-item-action flex-column align-items-start qa-list">
             <div class="d-flex">
-              <div class="panel-innersub">
+              <div class="panel-innersub main-font-color">
                 Q
               </div>
               <div class="panel-innermain">
@@ -17,7 +17,7 @@
                 <small class="sub-label">{{ qa.author }}</small>
                 <small class="sub-label">{{ qa.posttime }}</small>
                 <p class="panel-contents">{{ qa.body }}</p>
-                <p class="qa-footer-l">{{ qa.answer }}</p>
+                <p class="qa-footer-l main-font-color">{{ qa.answer }}</p>
                 <a
                   class="qa-footer-r"
                   href="#">{{ qa.category }}</a>
@@ -49,7 +49,6 @@
   font-family: 'Roboto';
   font-size: 2.625rem;
   line-height: 1;
-  color: #28c8a0;
 }
 .subTitle {
   display: block;
@@ -77,7 +76,6 @@
   margin: 10px 0 0 0;
   float: left;
   font-weight: bold;
-  color: #28c8a0;
 }
 .qa-footer-r {
   margin: 10px 0 0 0;

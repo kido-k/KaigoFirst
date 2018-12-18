@@ -1,6 +1,6 @@
 <template>
   <div class="CategoryTitle">
-    <h2>医師相談カテゴリ</h2>
+    <h2>ケアマネ相談カテゴリ</h2>
   </div>
 </template>
 

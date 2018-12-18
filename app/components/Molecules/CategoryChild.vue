@@ -3,10 +3,10 @@
     <a
       class="card category-component"
       href="/">
-      <CategoryChildImage class="card-img-top image"/>
+      <CategorySampleImage class="card-img-top image"/>
       <div class="card-body subtitle">
-        <CategoryChildTitle class="title"/>
-        <CategoryChildLabel class="label"/>
+        <CategorySampleTitle class="title"/>
+        <CategorySampleLabel class="label"/>
       </div>
     </a>
   </section>
@@ -37,15 +37,15 @@
 
 
 <script>
-import CategoryChildImage from '~/components/Atoms/CategoryChildImage.vue'
-import CategoryChildTitle from '~/components/Atoms/CategoryChildTitle.vue'
-import CategoryChildLabel from '~/components/Atoms/CategoryChildLabel.vue'
+import CategorySampleImage from '~/components/Atoms/CategorySampleImage.vue'
+import CategorySampleTitle from '~/components/Atoms/CategorySampleTitle.vue'
+import CategorySampleLabel from '~/components/Atoms/CategorySampleLabel.vue'
 
 export default {
   components: {
-    CategoryChildImage,
-    CategoryChildTitle,
-    CategoryChildLabel
+    CategorySampleImage,
+    CategorySampleTitle,
+    CategorySampleLabel
   }
 }
 </script>
