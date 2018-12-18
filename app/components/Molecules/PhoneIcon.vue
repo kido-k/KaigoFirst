@@ -1,9 +1,9 @@
 <template>
   <section>
     <div class="icon-component">
-      <TalkIconImage class="imgage"/>
-      <TalkIconTitle class="title"/>
-      <TalkIconLabel class="label"/>
+      <PhoneIconImage class="imgage"/>
+      <PhoneIconTitle class="title"/>
+      <PhoneIconLabel class="label"/>
     </div>
   </section>
 </template>
@@ -29,15 +29,15 @@
 
 
 <script>
-import TalkIconImage from '~/components/Atoms/TalkIconImage.vue'
-import TalkIconTitle from '~/components/Atoms/TalkIconTitle.vue'
-import TalkIconLabel from '~/components/Atoms/TalkIconLabel.vue'
+import PhoneIconImage from '~/components/Atoms/PhoneIconImage.vue'
+import PhoneIconTitle from '~/components/Atoms/PhoneIconTitle.vue'
+import PhoneIconLabel from '~/components/Atoms/PhoneIconLabel.vue'
 
 export default {
   components: {
-    TalkIconImage,
-    TalkIconTitle,
-    TalkIconLabel
+    PhoneIconImage,
+    PhoneIconTitle,
+    PhoneIconLabel
   }
 }
 </script>

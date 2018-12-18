@@ -1,6 +1,6 @@
 <template>
   <div class="IconTitle">
-    <h2>50以上の診療科</h2>
+    <h2>LINEですきま時間に</h2>
   </div>
 </template>
 

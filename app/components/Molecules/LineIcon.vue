@@ -1,9 +1,9 @@
 <template>
   <section>
     <div class="icon-component">
-      <ClockIconImage class="image"/>
-      <ClockIconTitle class="title"/>
-      <ClockIconLabel class="label"/>
+      <LineIconImage class="image"/>
+      <LineIconTitle class="title"/>
+      <LineIconLabel class="label"/>
     </div>
   </section>
 </template>
@@ -29,15 +29,15 @@
 
 
 <script>
-import ClockIconImage from '~/components/Atoms/ClockIconImage.vue'
-import ClockIconTitle from '~/components/Atoms/ClockIconTitle.vue'
-import ClockIconLabel from '~/components/Atoms/ClockIconLabel.vue'
+import LineIconImage from '~/components/Atoms/LineIconImage.vue'
+import LineIconTitle from '~/components/Atoms/LineIconTitle.vue'
+import LineIconLabel from '~/components/Atoms/LineIconLabel.vue'
 
 export default {
   components: {
-    ClockIconImage,
-    ClockIconTitle,
-    ClockIconLabel
+    LineIconImage,
+    LineIconTitle,
+    LineIconLabel
   }
 }
 </script>

@@ -1,7 +1,8 @@
 <template>
   <div class="IconLabel">
-    <p>1つの相談に平均4人以上の<br>
-      医師が回答します。
+    <p>1つの相談に平均4人以上の
+      <br>
+      ケアマネが回答します。
     </p>
   </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div class="label">
-    <p>複数のケアマネージャーから回答がもらえます。</p>
+    <p>複数のケアマネから回答がもらえます。</p>
   </div>
 </template>
 

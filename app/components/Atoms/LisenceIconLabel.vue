@@ -1,7 +1,6 @@
 <template>
   <div class="IconLabel">
-    <p>幅広い分野の専門医が協力しています。</p>
-    <a href="/">協力医師と診療科一覧はこちら</a>
+    <p>回答するケアマネは幅広い専門領域を有しています。</p>
   </div>
 </template>
 

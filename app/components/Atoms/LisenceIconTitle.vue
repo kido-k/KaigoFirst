@@ -1,6 +1,6 @@
 <template>
   <div class="IconTitle">
-    <h2>平均4人からの回答</h2>
+    <h2>専門家は全員ケアマネ資格保有</h2>
   </div>
 </template>
 

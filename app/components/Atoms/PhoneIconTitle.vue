@@ -1,6 +1,6 @@
 <template>
   <div class="IconTitle">
-    <h2>最短5分</h2>
+    <h2>オンライン通話ツールで相談</h2>
   </div>
 </template>
 
