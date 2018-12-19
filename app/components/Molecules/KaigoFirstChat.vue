@@ -20,9 +20,9 @@
 
 
 <script>
-import KaigoChatTitle from '~/components/atoms/KaigoChatTitle.vue'
-import KaigoChatLabel from '~/components/atoms/KaigoChatLabel.vue'
-import KaigoChatPicture from '~/components/atoms/KaigoChatPicture.vue'
+import KaigoChatTitle from '~/components/Atoms/KaigoChatTitle.vue'
+import KaigoChatLabel from '~/components/Atoms/KaigoChatLabel.vue'
+import KaigoChatPicture from '~/components/Atoms/KaigoChatPicture.vue'
 
 export default {
   components: {

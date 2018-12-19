@@ -19,8 +19,8 @@
 
 
 <script>
-import KaigoFirstLabel from '~/components/atoms/KaigoFirstLabel.vue'
-import SignUpButton from '~/components/atoms/SignUpButton.vue'
+import KaigoFirstLabel from '~/components/Atoms/KaigoFirstLabel.vue'
+import SignUpButton from '~/components/Atoms/SignUpButton.vue'
 
 export default {
   components: {

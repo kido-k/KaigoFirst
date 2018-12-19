@@ -24,9 +24,9 @@
 
 
 <script>
-import KaigoAnswerTitle from '~/components/atoms/KaigoAnswerTitle.vue'
-import KaigoAnswerLabel from '~/components/atoms/KaigoAnswerLabel.vue'
-import KaigoAnswerPicture from '~/components/atoms/KaigoAnswerPicture.vue'
+import KaigoAnswerTitle from '~/components/Atoms/KaigoAnswerTitle.vue'
+import KaigoAnswerLabel from '~/components/Atoms/KaigoAnswerLabel.vue'
+import KaigoAnswerPicture from '~/components/Atoms/KaigoAnswerPicture.vue'
 
 export default {
   components: {
