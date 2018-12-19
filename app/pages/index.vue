@@ -14,9 +14,9 @@
       <div class="pdca">
         <PDCAList/>
       </div>
-      <div class="feature-word">
+      <!-- <div class="feature-word">
         <FeatureWord/>
-      </div>
+      </div> -->
       <div class="feature-consult">
         <FeatureConsult/>
       </div>

@@ -1,26 +1,19 @@
 <template>
   <div class="catchCopy">
-    <h1>
-      カイゴファーストで気軽にケアマネに相談。
-    </h1>
+    <img
+      class="catchCopyImage"
+      src="../../assets/catch_copy.jpeg"
+      alt="catchCopy">
   </div>
 </template>
 
 <style scoped>
 .catchCopy {
-  display: inline-block;
-  background-image: url(../../assets/catch_copy.jpg);
-  height: 350px;
-  width: 100%;
-}
-.catchCopy > h1 {
-  float: left;
-  padding: 110px 0 0 10px;
-  text-align: left;
-  font-size: 24px;
-  font-weight: normal;
+  display: block;
 }
 .catchCopyImage {
-  float: right;
+  width: 100%;
+  max-width: 1070px;
+  max-height: 350px;
 }
 </style>
