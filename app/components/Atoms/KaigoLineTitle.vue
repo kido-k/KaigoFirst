@@ -14,5 +14,6 @@
 .title > p {
   font-size: 36px;
   margin: 0;
+  color: rgb(0, 162, 232);
 }
 </style>
