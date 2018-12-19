@@ -14,5 +14,6 @@
   font-size: 18px;
   margin: 0;
   text-align: left;
+  color: rgb(0, 162, 232);
 }
 </style>

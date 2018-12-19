@@ -14,9 +14,9 @@
       <div class="pdca">
         <PDCAList/>
       </div>
-      <div class="feature-word">
+      <!-- <div class="feature-word">
         <FeatureWord/>
-      </div>
+      </div> -->
       <div class="feature-consult">
         <FeatureConsult/>
       </div>
@@ -68,7 +68,7 @@ export default {
   text-align: center;
 }
 .middlecontent {
-  background-color: #d7ecfa;
+  background-color: #e2eff8;
   margin: 40px 0 0 0;
   padding: 40px 0;
 }

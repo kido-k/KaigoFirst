@@ -1,17 +1,17 @@
 <template>
   <div class="middle">
-    <KaigoFirstChat class="left-component"/>
+    <KaigoLineSample class="left-component"/>
     <KaigoAnswerSample class="right-component"/>
   </div>
 </template>
 
 <script>
-import KaigoFirstChat from '../Molecules/KaigoFirstChat.vue'
+import KaigoLineSample from '../Molecules/KaigoLineSample.vue'
 import KaigoAnswerSample from '../Molecules/KaigoAnswerSample.vue'
 
 export default {
   components: {
-    KaigoFirstChat,
+    KaigoLineSample,
     KaigoAnswerSample
   }
 }
